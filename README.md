@@ -1,4 +1,4 @@
 ## Sources for foobar2000 remote control via LIRC
 
-### Вид формы настройки
+### Type of settings form
 ![Вид плагина](f2k.jpg)
